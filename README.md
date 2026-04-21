@@ -1,4 +1,7 @@
-# Audio-Event-Detection-Using-STM32
+# Audio-Event-Detection-Using-CortexM4
+
+Board Used - STM32F407-DISC1 <br>
+Processor - ARM Cortex M4 <br>
 
  Audio Event Detection (AED): 
 It focuses on the automatic identification and classification
